@@ -1,0 +1,7 @@
+out/
+venv/
+.git
+.gitignore
+Dockerfile
+build.sh
+
